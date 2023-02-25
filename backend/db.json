@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que deu certo",
+      "autoria": "Akyla",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom",
+      "autoria": "Akyla Pinto",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Deu certo",
+      "autoria": "Akyla A.",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Inteligencia artificial Doidona",
+      "autoria": "Akyla Aquino aeae",
+      "modelo": "modelo3",
+      "id": 4
+    }
+  ]
+}
